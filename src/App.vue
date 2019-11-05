@@ -6,7 +6,7 @@
     <div class="wrapper-content">
       <section>
         <div class="container"> 
-          <h1>Hellow</h1>
+          <h1>Hello</h1>
           <img alt="Vue logo" src="./assets/logo.png"> 
         </div>
       </section>
